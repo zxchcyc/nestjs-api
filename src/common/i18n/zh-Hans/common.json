@@ -1,0 +1,16 @@
+{
+  "ERROR": {
+    "VERIFY": {
+      "PARAMETER_ERROR": "参数错误!",
+      "USER_NAME_TOO_SHORT": "用户名不得少于6位!",
+      "EMPTY_USER": "用户名/密码为空!",
+      "EMAIL_FORMAT_ERR": "邮箱格式不符合要求!"
+    },
+    "REQUEST": {
+      "REQ_ERR": "网络请求异常!"
+    },
+    "DB": {
+      "EXCEPTION": "数据库异常"
+    }
+  }
+}

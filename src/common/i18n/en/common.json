@@ -1,0 +1,16 @@
+{
+  "ERROR": {
+    "VERIFY": {
+      "PARAMETER_ERROR":"Parameter error!",
+      "USER_NAME_TOO_SHORT": "Username is too short!",
+      "EMPTY_USER": "Username/Password is Empty!",
+      "EMAIL_FORMAT_ERR": "Email format does not meet requirements!"
+    },
+    "REQUEST": {
+      "REQ_ERR": "Network Exception!"
+    },
+    "DB": {
+      "EXCEPTION": "Database exception!"
+    }
+  }
+}

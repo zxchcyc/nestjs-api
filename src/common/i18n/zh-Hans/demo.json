@@ -1,0 +1,11 @@
+{
+  "HELLO_MESSAGE": "您好 {username}",
+  "GOODBYE_MESSAGE": "再见 {username}",
+  "SETUP": {
+    "WELCOME": "欢迎 {0.username}",
+    "GOODBYE": "再见 {0.username}",
+    "SUCCESS": "{opt}成功!",
+    "FAILED": "{opt}失败!"
+  },
+  "ARRAY": ["1", "2", "3"]
+}
